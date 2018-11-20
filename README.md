@@ -1,3 +1,9 @@
+## HMA NOTES
+- This is a fork of react-navigation v1.0.0-beta.13
+- package has been renamed to react-navigation-legacy
+- this is being replaced by react-navigation v3
+
+
 # React Navigation [![CircleCI](https://circleci.com/gh/react-community/react-navigation/tree/master.svg?style=shield&circle-token=622fcb1d78413084c2f44699ed2104246a177485)](https://circleci.com/gh/react-community/react-navigation/tree/master) [![npm version](https://badge.fury.io/js/react-navigation.svg)](https://badge.fury.io/js/react-navigation) [![codecov](https://codecov.io/gh/react-community/react-navigation/branch/master/graph/badge.svg)](https://codecov.io/gh/react-community/react-navigation)
 
 
