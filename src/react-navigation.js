@@ -74,17 +74,6 @@ module.exports = {
     return require('./views/Drawer/DrawerNavigatorItems').default;
   },
 
-  // TabView
-  get TabView() {
-    return require('./views/TabView/TabView').default;
-  },
-  get TabBarTop() {
-    return require('./views/TabView/TabBarTop').default;
-  },
-  get TabBarBottom() {
-    return require('./views/TabView/TabBarBottom').default;
-  },
-
   // HOCs
   get withNavigation() {
     return require('./views/withNavigation').default;
